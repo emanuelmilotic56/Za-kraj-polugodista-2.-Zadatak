@@ -1,0 +1,7 @@
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodista-2. Zadatak\Zadaci za kraj polugodista-2. Zadatak\bin\Debug\Zadaci_za_kraj_polugodista_2.Zadatak.exe.config
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodista-2. Zadatak\Zadaci za kraj polugodista-2. Zadatak\bin\Debug\Zadaci_za_kraj_polugodista_2.Zadatak.exe
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodista-2. Zadatak\Zadaci za kraj polugodista-2. Zadatak\bin\Debug\Zadaci_za_kraj_polugodista_2.Zadatak.pdb
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodista-2. Zadatak\Zadaci za kraj polugodista-2. Zadatak\obj\Debug\Zadaci za kraj polugodista-2. Zadatak.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodista-2. Zadatak\Zadaci za kraj polugodista-2. Zadatak\obj\Debug\Zadaci za kraj polugodista-2. Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodista-2. Zadatak\Zadaci za kraj polugodista-2. Zadatak\obj\Debug\Zadaci_za_kraj_polugodista_2.Zadatak.exe
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodista-2. Zadatak\Zadaci za kraj polugodista-2. Zadatak\obj\Debug\Zadaci_za_kraj_polugodista_2.Zadatak.pdb
